@@ -1,0 +1,1 @@
+In this project, I identified real-world problems and applied machine learning techniques to address them. I followed steps such as data collection, preprocessing, exploratory data analysis, feature engineering, and model selection and evaluation.
